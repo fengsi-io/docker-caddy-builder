@@ -13,5 +13,5 @@ docker run \
         github.com/epicagency/caddy-expires@v1.1.1\
         github.com/captncraig/caddy-realip \
         " \
-    registry.us-west-1.aliyuncs.com/fengsi/docker-caddy-builder:latest
+    fengsiio/caddy-builder:latest
 ```
